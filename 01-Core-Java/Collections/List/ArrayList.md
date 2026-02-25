@@ -1,10 +1,3 @@
-Here is the complete, consolidated file ready to be copied and pasted directly into your GitLab repository.
-
-```markdown
-# 01 Array List
-
-## Notes
-
 # 📘 Complete Java ArrayList Reference
 
 ### 1️⃣ Overview
